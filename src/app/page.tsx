@@ -21,7 +21,7 @@ export default function Home() {
         <div className="mb-6">
           <div className="mx-auto rounded-full border-4 border-blue-400 shadow-xl w-36 h-36 overflow-hidden bg-white hover:scale-105 transition-transform duration-300">
             <Image
-              src="/img_0256.jpg"
+              src="/IMG_0256.jpg"
               alt="Profile photo of Garrett Edward Laconis"
               width={144}
               height={144}
